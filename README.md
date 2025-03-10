@@ -1,4 +1,9 @@
-# Web untuk task login di akun untuk admin dan user
+# Web untuk task
+# Aplikasi login akun oleh user dan admin
+# Fitur :
+# 1. Dapat melihat profile user
+# 2. Admin dapat melihat dashboard untuk semua akun terdaftar
+# 3. Admin bisa mengedit/menghapus akun terdaftar
 ![Halaman Login](TaskSS/Login.png)
 ![Salah PW dan Uname](TaskSS/AlertPassword.png)
 ![Halaman Profil](TaskSS/Profile_User.png)
